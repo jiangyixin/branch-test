@@ -1,3 +1,6 @@
 this is master.txt.
+<<<<<<< HEAD
 
 new line.
+=======
+>>>>>>> hui@dev
