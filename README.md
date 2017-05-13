@@ -1,5 +1,5 @@
 # branch-test
 
-from master
+from hui@dev
 
-form hui@dev 
+form master 
